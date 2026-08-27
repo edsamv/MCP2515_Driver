@@ -1,0 +1,7 @@
+../Core/Src/main.cpp:27:5:int main()	6
+../Core/Src/main.cpp:101:13:void MX_SPI1_Init()	2
+../Core/Src/main.cpp:122:13:void MX_GPIO_Init()	1
+../Core/Src/main.cpp:150:17:void SystemClock_Config()	3
+../Core/Src/main.cpp:193:17:void Error_Handler()	1
+../Core/Src/main.cpp:200:1:void __static_initialization_and_destruction_0()	1
+../Core/Src/main.cpp:200:1:cpp)	1

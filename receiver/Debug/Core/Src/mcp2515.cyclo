@@ -1,0 +1,15 @@
+../Core/Src/mcp2515.c:3:6:MCP2515_CS_Low	1
+../Core/Src/mcp2515.c:8:6:MCP2515_CS_High	1
+../Core/Src/mcp2515.c:13:9:SPI_TxRx	1
+../Core/Src/mcp2515.c:28:6:MCP2515_Reset	1
+../Core/Src/mcp2515.c:37:9:MCP2515_ReadRegister	1
+../Core/Src/mcp2515.c:53:6:MCP2515_WriteRegister	1
+../Core/Src/mcp2515.c:67:6:MCP2515_BitModify	1
+../Core/Src/mcp2515.c:83:9:MCP2515_ReadStatus	1
+../Core/Src/mcp2515.c:97:6:MCP2515_SetMode	1
+../Core/Src/mcp2515.c:109:9:MCP2515_Init	3
+../Core/Src/mcp2515.c:150:6:MCP2515_LoadTXBuffer	2
+../Core/Src/mcp2515.c:186:6:MCP2515_RequestToSend	1
+../Core/Src/mcp2515.c:195:6:MCP2515_ReadRXBuffer	3
+../Core/Src/mcp2515.c:231:9:MCP2515_GetInterruptFlags	1
+../Core/Src/mcp2515.c:236:6:MCP2515_ClearInterruptFlags	1

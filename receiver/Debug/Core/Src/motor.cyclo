@@ -1,0 +1,15 @@
+../Core/Src/motor.cpp:3:1:Motor::Motor(uint16_t)	1
+../Core/Src/motor.cpp:13:6:void Motor::enable()	1
+../Core/Src/motor.cpp:18:6:void Motor::disable()	1
+../Core/Src/motor.cpp:27:6:void Motor::setTargetCurrent(int16_t)	1
+../Core/Src/motor.cpp:32:6:void Motor::setActualRpm(int16_t)	1
+../Core/Src/motor.cpp:37:6:void Motor::setTemperature(uint8_t)	1
+../Core/Src/motor.cpp:42:6:void Motor::setErrorCode(uint8_t)	1
+../Core/Src/motor.cpp:47:10:uint16_t Motor::getCanId() const	1
+../Core/Src/motor.cpp:52:6:bool Motor::isEnabled() const	1
+../Core/Src/motor.cpp:57:9:int16_t Motor::getTargetCurrent() const	1
+../Core/Src/motor.cpp:62:9:int16_t Motor::getActualRpm() const	1
+../Core/Src/motor.cpp:67:9:uint8_t Motor::getTemperature() const	1
+../Core/Src/motor.cpp:72:9:uint8_t Motor::getErrorCode() const	1
+../Core/Src/motor.cpp:84:6:void Motor::pack(uint8_t*) const	3
+../Core/Src/motor.cpp:102:6:void Motor::unpack(const uint8_t*)	2
